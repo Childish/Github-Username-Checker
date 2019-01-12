@@ -7,3 +7,4 @@ A username availability checker for Github.
         - Maybe add a proxy scraper?
         - Better outputs
         - :^)
+        - Add more comments (ew)
